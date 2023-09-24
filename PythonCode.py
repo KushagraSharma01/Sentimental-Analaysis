@@ -1,4 +1,6 @@
 print("Welcome to our Sentimental Analysis!!!")
+#hello frens
+#hello
 for q in range(0,1000,1):
     x = input("Enter any sentence : ") # input a sentence
     l1 = len(x) # length of sentence(characters) entered
